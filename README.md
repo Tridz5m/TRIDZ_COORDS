@@ -1,5 +1,5 @@
 # TRIDZ_COORDS
-
+Fivem script that shows coords with /coords
 
 Simple script to get your coordinates made by Tridz#6969
 
